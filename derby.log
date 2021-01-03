@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Sat Jan 02 20:53:41 PST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-c698-0956-000012312590 
+on database directory memory:/Users/pruthvirajpatel/IdeaProjects/Spring Course/course-api/94d78e73-a835-4ea9-8f0f-121d173077ac with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
+Loaded from file:/Users/pruthvirajpatel/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=11.0.8+10-LTS
+user.dir=/Users/pruthvirajpatel/IdeaProjects/Spring Course/course-api
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.7
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Jan 02 20:54:14 PST 2021:
+Shutting down instance a816c00e-0176-c698-0956-000012312590 on database directory memory:/Users/pruthvirajpatel/IdeaProjects/Spring Course/course-api/94d78e73-a835-4ea9-8f0f-121d173077ac with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@77556fd 
